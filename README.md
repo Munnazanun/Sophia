@@ -45,11 +45,11 @@ Click WA logo to Join Support Group 👇
   ### Simple Method
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@phaticusthiccy/WhatsAsena-QR)
-
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Hisham-Muhammed/Sophia.git)
-     </div>
+you you have any of 
+[![Deploy](http://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/cyberchekuthan/Amalser_v1.git)
+     </div>WELCOMES
 <br>
-<br >
+<br >is 
 If Repl.it not working Try Termux for Qr scanning.Just Copy the Link Below in Termux
 ```
 bash <(curl -L https://t.ly/tHxh)
@@ -99,7 +99,7 @@ Base, Bug Fixes, Modules | Modifiying  as   public | Bug Fixes, Modules
   </div>
     
 
-
+ h h and 
 ## License
 This project is protected by `GNU General Public Licence v3.0` license.
 
